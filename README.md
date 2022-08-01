@@ -20,7 +20,8 @@
 
 
 Olá sejam bem vindos!💜Me chamo Elisabeth, Sou Web developer autodidata, Atualmente estou me aprofundando no desenvolvimento Front end, a cada momento de estudo é uma nova descoberta que me faz ter certeza que encontrei algo que gera satisfação e desejo de melhorar dia a pós dia, curiosa por natureza sempre em busca por novas tecnologias apaixonada por viagem , livros e música. 
-Estudando atualmente: 
+Estudando atualmente:
+ 
 🦊Html5
 🦋Css3
 💫JavaScript
