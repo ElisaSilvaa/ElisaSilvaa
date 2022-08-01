@@ -19,4 +19,12 @@
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 
-Olá sejam bem vindos!💜 Sou Web developer autodidata, apaixonada por tecnologia atualmente estou me aprofundando no desenvolvimento Front end, cada dia de estudo é uma nova descoberta e me faz ter certeza que encontrei algo que me gerar satisfação e desejo de melhorar dia a pós dia, curiosa por natureza sempre em busca de crecer e aprender.
+Olá sejam bem vindos!💜Me chamo Elisabeth, Sou Web developer autodidata, Atualmente estou me aprofundando no desenvolvimento Front end, a cada momento de estudo é uma nova descoberta que me faz ter certeza que encontrei algo que gera satisfação e desejo de melhorar dia a pós dia, curiosa por natureza sempre em busca por novas tecnologias apaixonada por viagem , livros e música. 
+Estudando atualmente: 
+🦊Html5
+🦋Css3
+💫JavaScript
+Em breve: 
+🔹TypeScript 
+🌐React
+🌀React nativo
