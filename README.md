@@ -1,7 +1,8 @@
 ## Olá eu sou Elisabeth Silva 🖐
 
-- 🌱 *Programadora Front end em Formação*
-- 🍃 *Estudando Css3 e JavaScript*
+- 🌱 *Programadora Front end*
+- 📚 * Análise e Desencolvimento de Sistemas*
+- 🍃 *Html, Css3 e JavaScript*
 - ✨ *Em breve TypeScript, React e React Native*
 - 😊 *Pronouns: Ela/dela*
 
