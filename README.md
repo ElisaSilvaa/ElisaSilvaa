@@ -1,31 +1,18 @@
-## Olá eu sou Elisabeth Silva 🖐
+# Hi, I'm Elisabeth Silva 👋
 
-- 🌱 *Programadora Front end*
-- 📚 * Análise e Desencolvimento de Sistemas*
-- 🍃 *Html, Css3 e JavaScript*
-- ✨ *Em breve TypeScript, React e React Native*
-- 😊 *Pronouns: Ela/dela*
+I'm a Brazilian systems developer with a degree in Systems Analysis and Development. I build and test web applications for small businesses, and I'm looking for a Junior QA role.
 
+## Projects
 
- 
-##
+**RJ Polpas — Order and delivery management**  
+I built and support a web application that a fruit pulp manufacturer uses to manage orders, inventory, deliveries and payments. I investigate issues reported by users and run functional tests before releasing changes. One issue I worked on was a discount being applied more than once when a user clicked the button repeatedly.
 
-## Tecnologias que eu uso no meu dia.
+**Wells Barbearia — Online booking**  
+I built a mobile-friendly booking app where customers choose a service and an appointment time. The barber can block or reopen individual slots. One scenario I use to explain the booking rules is a 1 p.m. appointment: the app should keep that time unavailable because the shop is closed for lunch.
 
-<div style="display:inline_block"><br/><img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+## Tools I use
 
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+Python · FastAPI · JavaScript · React · PostgreSQL · SQL · Git  
+Manual functional testing · REST APIs · Swagger/OpenAPI
 
-
-Olá sejam bem vindos!💜Me chamo Elisabeth, Sou Web developer autodidata, Atualmente estou me aprofundando no desenvolvimento Front end, a cada momento de estudo é uma nova descoberta que me faz ter certeza que encontrei algo que gera satisfação e desejo de melhorar dia a pós dia, curiosa por natureza sempre em busca por novas tecnologias apaixonada por viagem , livros e música. 
-Estudando atualmente:
- 
-🦊Html5
-🦋Css3
-💫JavaScript
-Em breve: 
-🔹TypeScript 
-🌐React
-🌀React nativo
+[Connect with me on LinkedIn](https://www.linkedin.com/in/elisabethsilvaa/)
